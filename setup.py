@@ -18,7 +18,7 @@ setup(
     url='https://github.com/derpipy/derpipy',
     # Author details
     author=__author__,
-    author_email='derpi.github+code@luckydonald.de, pingmader@gmail.com',
+    author_email='derpi.github+code@luckydonald.de',
     # Choose your license
     license='MIT',
     platforms=["any"],
